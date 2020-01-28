@@ -25,3 +25,7 @@ By using the widgets, we can demonstrate scientific problems and knowledge. Here
 Voila package can render Jupyter notebooks in live with interactive widgets. Through using Voila with Binder, one can create webpage applications.
 
 * [Use Binder with Voila](./notebooks/Binder_voila.ipynb)
+
+You can view the sine function with Binder and Voila by click the Binder badge.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dou-du/osscar-docs/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FSine_function_b.ipynb)
