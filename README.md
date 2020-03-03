@@ -29,3 +29,15 @@ Voila package can render Jupyter notebooks in live with interactive widgets. Thr
 You can view the sine function with Binder and Voila by click the Binder badge.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FSine_function_b.ipynb)
+
+## Visualizer
+
+We are using the Nglview as the visualizer for molecular and solid structures.
+
+[Link in GitHub for Nglview](https://github.com/arose/nglview)
+
+Here are two tutorials for basic and advance usage of Nglview in the Jupyter
+notebooks.
+
+* [Nglview basic usage](./notebooks/nglview_basic.ipynb)
+* [Nglview advance usage](./notebooks/nglview_advance.ipynb)

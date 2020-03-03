@@ -4,3 +4,4 @@ ipympl==0.2.1
 appmode==0.6.0
 IPython==7.8.0
 voila==0.1.20
+nglview==2.7.1
