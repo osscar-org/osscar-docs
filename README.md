@@ -42,7 +42,7 @@ notebooks.
 * [Nglview basic usage](./notebooks/nglview_basic.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fnglview_basic.ipynb)
-* [Nglview advance usage](./notebooks/nglview_advance.ipynb)
 
+* [Nglview advance usage](./notebooks/nglview_advance.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fnglview_advance.ipynb)
