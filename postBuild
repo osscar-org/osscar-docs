@@ -4,6 +4,8 @@ jupyter labextension install jupyter-matplotlib
 jupyter nbextension      enable --py --sys-prefix appmode
 jupyter serverextension  enable --py --sys-prefix appmode
 jupyter nbextension      enable --py widgetsnbextension
+jupyter nbextension install --py --symlink --sys-prefix nglview
+jupyter nbextension enable --py --sys-prefix nglview
 git clone https://github.com/osscar-org/reprint-magic.git
 cd reprint-magic
 pip install -e . 
