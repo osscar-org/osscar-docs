@@ -34,15 +34,13 @@ You can view the sine function with Binder and Voila by click the Binder badge.
 
 We are using the Nglview as the visualizer for molecular and solid structures.
 
-[Link in GitHub for Nglview](https://github.com/arose/nglview)
+[GitHub link for Nglview](https://github.com/arose/nglview)
 
-Here are two tutorials for basic and advance usage of Nglview in the Jupyter
-notebooks.
+Here are two tutorials for basic and advanced usage of Nglview in the Jupyter
+notebooks. Besides, we also need to use the three.js library to create 3D object
+widgets. The **pythreejs** package can be used to implement related widgets. 
 
-* [Nglview basic usage](./notebooks/nglview_basic.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_basic.ipynb)
-
-* [Nglview advance usage](./notebooks/nglview_advance.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_advance.ipynb)
+| Topics | Notebooks | Binder |
+| ------ | --------- | ------ |
+| Ngvliew basic usage | [Nglview basic usage](./notebooks/nglview_basic.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_basic.ipynb) |
+| Nglview advanced usage | [Nglview advanced usage](./notebooks/nglview_advanced.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_advanced.ipynb) |
