@@ -38,9 +38,9 @@ We are using the Nglview as the visualizer for molecular and solid structures.
 
 Here are two tutorials for basic and advanced usage of Nglview in the Jupyter
 notebooks. Besides, we also need to use the three.js library to create 3D object
-widgets. The **pythreejs** package can be used to implement related widgets. 
+widgets. The **pythreejs** package can be used to implement related widgets.
 
 | Topics | Notebooks | Binder |
 | ------ | --------- | ------ |
-| Ngvliew basic usage | [Nglview basic usage](./notebooks/nglview_basic.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_basic.ipynb) |
+| Nglview basic usage | [Nglview basic usage](./notebooks/nglview_basic.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_basic.ipynb) |
 | Nglview advanced usage | [Nglview advanced usage](./notebooks/nglview_advanced.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_advanced.ipynb) |
