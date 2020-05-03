@@ -76,6 +76,3 @@ html_static_path = ['_static']
 
 # Uncomment this line if you have know exceptions in your included notebooks
 # that nbsphinx complains about:
-#
-nbsphinx_allow_errors = True # exception ipstruct.py ipython_genutils
-nbsphinx_execute = 'always'
