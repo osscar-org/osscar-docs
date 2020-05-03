@@ -11,4 +11,3 @@ dependencies:
 - jupyter_sphinx
 - nglview 
 - ase 
-- nbsphinx_link
