@@ -15,4 +15,5 @@ The widgets have been embedded into the page for demonstrative pruposes.
 .. toctree::
     :glob:
 
-    * 
+    nglview_basic
+    nglview_advanced 
