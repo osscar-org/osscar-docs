@@ -1,9 +1,12 @@
 
-Examples
-========
+Nglview Tutorial
+=================
 
-This section contains several examples generated from Jupyter notebooks.
-The widgets have been embedded into the page for demonstrative pruposes.
+This section contains detailed tutorials for using Nglview as a molecular
+visualization. We use the Nglview as the main molecular visualization for the
+OSSCAR project. 
+
+`Nglview official documentation <http://nglviewer.org/nglview/latest/api.html>`_.
 
 .. todo::
 
@@ -16,4 +19,4 @@ The widgets have been embedded into the page for demonstrative pruposes.
     :glob:
 
     nglview_basic
-    nglview_advanced 
+    nglview_advanced
