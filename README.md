@@ -1,4 +1,6 @@
 # osscar-docs
+[![Documentation Status](https://readthedocs.org/projects/osscar-docs/badge/?version=latest)](https://osscar-docs.readthedocs.io/en/latest/?badge=latest)
+
 Documentation on how to create new educational apps and to deploy them with the OSSCAR technology
 
 ## List of Jupyter notebook tutorial
