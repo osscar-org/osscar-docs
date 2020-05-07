@@ -1,1 +1,2 @@
+ipywidgets==7.5.0
 widget-periodictable==1.1.0

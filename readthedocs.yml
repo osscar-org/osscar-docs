@@ -4,5 +4,7 @@ python:
   pip_install: false
   extra_requirements:
     - docs
+  install:
+    - docs/requirements.txt 
 conda:
   file: docs/environment.yml
