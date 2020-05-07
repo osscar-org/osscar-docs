@@ -5,6 +5,7 @@ python:
   extra_requirements:
     - docs
   install:
-    - docs/requirements.txt 
+    - requirements: docs/requirements.txt
+    - method: pip  
 conda:
   file: docs/environment.yml
