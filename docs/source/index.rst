@@ -19,9 +19,15 @@ related OSSCAR tools and techniques.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Molecular Visualizer 
+   :caption: Molecular Visualizer
 
-   examples/index
+   visualizer/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Jupyter Widgets and Extensions
+
+   widgets/index
 
 This work has been done with the support of the EPFL Open Science Fund **OSSCAR**.
 
