@@ -26,4 +26,4 @@ python:
         - docs 
 
 conda:
-  file: docs/environment.yml
+  environment: docs/environment.yml
