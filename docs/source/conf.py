@@ -84,7 +84,7 @@ here = os.path.dirname(__file__)
 def setup(app):
     app.setup_extension('jupyter_sphinx.execute')
     def add_scripts(app):
-        for fname in ['helper.js', 'embed-bundle.js']:
+        for fname in ['helper.js', 'embed-periodictable.js']:
             if not os.path.exists(os.path.join(here, '_static', fname)):
                 app.warn('missing javascript file: %s' % fname)
             app.add_js_file(fname)
