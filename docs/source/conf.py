@@ -86,3 +86,4 @@ def setup(app):
                 app.warn('missing javascript file: %s' % fname)
             app.add_js_file(fname)
     app.connect('builder-inited', add_scripts)
+    app.add_stylesheet('style.css')
