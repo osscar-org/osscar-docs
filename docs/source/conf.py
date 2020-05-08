@@ -75,3 +75,14 @@ html_static_path = ['_static']
 
 # Uncomment this line if you have know exceptions in your included notebooks
 # that nbsphinx complains about:
+
+here = os.path.dirname(__file__)
+
+def setup(app):
+    app.setup_extension('jupyter_sphinx.execute')
+    def add_scripts(app):
+        for fname in ['helper.js', 'embed-bundle.js']:
+            if not os.path.exists(os.path.join(here, '_static', fname)):
+                app.warn('missing javascript file: %s' % fname)
+            app.add_javascript(fname)
+    app.connect('builder-inited', add_scripts)
