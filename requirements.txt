@@ -8,3 +8,4 @@ nglview==2.7.1
 ase==3.19.0 
 pythreejs==2.2.0
 widget_periodictable
+vapory
