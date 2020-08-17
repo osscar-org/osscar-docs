@@ -10,3 +10,4 @@ nglview==2.7.7
 ase==3.19.2 
 pythreejs==2.2.0
 widget_periodictable
+voila-osscar-template
