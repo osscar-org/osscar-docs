@@ -48,9 +48,8 @@ widgets. The **pythreejs** package can be used to implement related widgets.
 | Nglview advanced usage | [Nglview advanced usage](./notebooks/nglview_advanced.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fnglview_advanced.ipynb) |
 | Pythreejs tutorial |  [Pytrheejs tutorial](./notebooks/pythreejs_example.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Ftree%2Fnotebooks%2Fpythreejs_example.ipynb) |
 
-## Acknowlegements
+# Acknowledgements
 
-We acknowledge support from:
-* EPFL Open Science Fund
+We acknowledge support from the EPFL Open Science Fund via the [OSSCAR](http://www.osscar.org) project.
 
-<img src='http://www.osscar.org/wp-content/uploads/2019/03/OSSCAR-logo.png' width='240'>
+<img src='http://www.osscar.org/wp-content/uploads/2019/03/OSSCAR-logo.png' width='230'>
