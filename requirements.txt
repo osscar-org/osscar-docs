@@ -5,5 +5,5 @@ ase==3.20.0
 pythreejs==2.2.1
 widget-periodictable==2.1.5
 voila-osscar-template==0.2.7
-git+https://github.com/osscar-org/reprint-magic.git@mater
+git+https://github.com/osscar-org/reprint-magic.git@master
 git+https://github.com/Zulko/vapory.git@master
