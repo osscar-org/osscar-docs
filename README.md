@@ -1,6 +1,8 @@
 # osscar-docs
 [![Documentation Status](https://readthedocs.org/projects/osscar-docs/badge/?version=latest)](https://osscar-docs.readthedocs.io/en/latest/?badge=latest)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-docs/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Findex.ipynb)
+
 Documentation on how to create new educational apps and to deploy them with the OSSCAR technology
 
 ## List of Jupyter notebook tutorial
