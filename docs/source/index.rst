@@ -29,6 +29,12 @@ related OSSCAR tools and techniques.
 
    widgets/index
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Voila usage 
+
+   voila/index
+
 This work has been done with the support of the EPFL Open Science Fund **OSSCAR**.
 
 .. image:: images/OSSCAR-logo.png
